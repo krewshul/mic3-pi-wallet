@@ -17,4 +17,4 @@ Reserved: 9% [Huge swap | Exchange Listing | Airdrop]
 ​
 NOT AN ICO | FAIR LAUNCH | AIRDROP
 
-Blocktime: ~2 Minutes
+Blocktime: ~2 Minutes# mic3-pi-wallet
